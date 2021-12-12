@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Elliot!
-![](https://cdn.discordapp.com/banners/888403729995399169/a_df5ff8eb2dcb6b9c099c5899ff63a185.gif?size=1024)
+![](https://cdn.discordapp.com/banners/888403729995399169/a_df5ff8eb2dcb6b9c099c5899ff63a185.png?size=1024)
 
 
 Skills: [Python / JavaScript] Back-End Developer
